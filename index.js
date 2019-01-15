@@ -1,3 +1,3 @@
-module.exports = function add(x, y) {
-    return x + y;
+export default function a() {
+  console.log('testModuleA@v2')
 }
